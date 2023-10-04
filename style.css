@@ -685,7 +685,7 @@ footer span a:hover{
     /* cursor: pointer; */
 }
 
-::selcection{
+::selection{
     background-color: crimson;
     color: white;
 }
